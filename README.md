@@ -18,7 +18,7 @@ A licença na íntegra pode ser consultada no documento LICENSE, ou através do 
 
     *** When I created the demand forecasting project in November 2020, I was reading scientific articles and I had the idea of working with compound methods, using standard forecasting method for normal data and working with other methods (such as neural networks) to treat the change in the forecast around the leftover. I thought of this technique and left the idea aside because I was busy with other things. At the moment I am thinking of a new idea of using the data partition. But for now it's just an idea. Soon I will be working with the development of a demand forecasting method. I hope it works. 
 
-    *** The idea is to partition the data so that lumpness (and other WIllians paramenters) decreases, by decreasing the coefficient of variation (and other paramenters), when possible, if possible. Thus, according to Willians's classification, it may be possible to bring the data into the normal standard.
+    *** The idea is to partition the data so that lumpness (and other Willians paramenters) decreases, by decreasing the coefficient of variation (and other paramenters), when possible, if possible. Thus, according to Willians's classification, it may be possible to bring the data into the normal standard.
 
     *** The question is: is it possible to decrease, through the data partition, the 'lumpiness' of the demand, the mean number of lead times between demands, and the lead time variance, acording to Willians classification method ? I believe the answer is yes. So I intend to work on this in the coming months.
 
