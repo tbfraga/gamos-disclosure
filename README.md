@@ -1,5 +1,5 @@
 # gamos-disclosure
-Dissemination of work carried out by gamos, such as publications, videos and reports. 
+Dissemination of work carried out by GAMOS, such as publications, videos and reports. 
 
 As cópias e distribuições dos arquivos disponibilizados neste diretório, devem respeitar à licença Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License.
 
@@ -12,7 +12,7 @@ A licença na íntegra pode ser consultada no documento LICENSE, ou através do 
 -->> Development of local search heuristics based algorithms to solve the production planning problem (p-batch s-batch) in a plastic bag production factory.
 
     *** I am thinking of using the particle collision heuristic, which was adapted by me, to solve discrete problems, from the particle collision method, developed by Prof. Wagner Sacco.
-    *** Other heuristics or new ideas may be developed tested and applied.
+    *** Other heuristics or new ideas may be developed, tested and applied.
 
 -->> Creation of a compound algorithm to predict product demand with different demand patterns.
 
@@ -24,8 +24,10 @@ A licença na íntegra pode ser consultada no documento LICENSE, ou através do 
     
     *** In this work the student modeled the chain stock problem and created an optimization algorithm for the problem based on the simulated annealing method.
 
--->> Copsolver.
+-->> COPSolver.
 
-    *** Continue software development along with work development.
+    *** Continue software development along with works development.
 
 -->> I will be focusing on the completion (if possible) and the publication of all work ongoing, more than on the development of new works.
+    
+    *** But I have a huge difficulty not to get involved with new projects. I'll try.
