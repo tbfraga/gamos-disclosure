@@ -24,9 +24,9 @@ A licença na íntegra pode ser consultada no documento LICENSE, ou através do 
     
     *** In this work the student modeled the chain stock problem and created an optimization algorithm for the problem based on the simulated annealing method.
 
--->> COPSolver.
-
-    *** Continue software development along with works development.
+-->> COPSolver: continue software development along with works development.
+    
+    *** COPSolver is currently gaining new libraries for Multicriteria ABC classification (with Saat's Analytical Hierarchy Process method) and identification of demand patterns with the Willians demand partition method.
 
 -->> I will be focusing on the completion (if possible) and the publication of all work ongoing, more than on the development of new works.
     
