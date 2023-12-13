@@ -22,6 +22,9 @@ A licença na íntegra pode ser consultada no documento LICENSE, ou através do 
 
     *** The question is: is it possible to decrease, through the data partition, the 'lumpiness' of the demand, the mean number of lead times between demands, and the lead time variance, acording to Willians classification method ? I believe the answer is yes. So I intend to work on this in the coming months.
 
+    *** Another idea that begins to emerge in my mind, when analyzing the data, consists in identifying patterns using different scales defined for periods (i.e., day, week, month, year).
+        
+
 -->> Elaboration of a scientific article for publication of the particle collision applied to discrete problem solving (part of my doctoral work).
 
 -->> Elaboration of scientific article for the publication of the undergraduate work of my guiding Edwedja. 
