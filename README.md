@@ -23,7 +23,10 @@ A licença na íntegra pode ser consultada no documento LICENSE, ou através do 
     *** The question is: is it possible to decrease, through the data partition, the 'lumpiness' of the demand, the mean number of lead times between demands, and the lead time variance, acording to Willians classification method ? I believe the answer is yes. So I intend to work on this in the coming months.
 
     *** Another idea that begins to emerge in my mind, when analyzing the data, consists in identifying patterns using different scales defined for periods (i.e., day, week, month, year).
-        
+        --> when analyzing longtime data, it is necessary to verify if an old standard is maintained or modified for recent dates.
+        --> for the studied region it is certainly necessary to work with information that goes beyond the data.
+        --> then it is possible that it is necessary to work with causal methods, along with other standard methods. 
+        --> mabe this could solve the forecast problem for the studied case.
 
 -->> Elaboration of a scientific article for publication of the particle collision applied to discrete problem solving (part of my doctoral work).
 
