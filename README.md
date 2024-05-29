@@ -17,7 +17,16 @@ A licença na íntegra pode ser consultada no documento LICENSE, ou através do 
     *** These assessments are done through group dynamics.
     *** Students need to apply their knowledge gained in their training to problem solving cases.
 
-    *** 
+    *** Looking at these selection processes, it may be possible to think of a semester evaluation model (of production engineering course subjects) based on the following aspects:
+
+    *** the assessment activities are group dynamics in which students must apply the knowledge acquired throughout the semester at displina to solve problems cases;
+    *** students of courses in the areas of human resources are invited to participate in the construction of dynamics and evaluations;
+    *** an evaluation board is created to evaluate acquired knowledge as well as behavioral aspects.
+    *** the evaluation board must create the dynamics so that at least 70% of the content presented in the discipline is necessary to solve the problem;
+    *** in assessment games, each group of students will need to use theoretical methods and concepts to solve a problem.
+    
+    *** For example, a dynamic can be created in which a fictitious factory has working capital problems, and it is necessary to reformulate a certain industrial process to improve the company's profit;
+    *** It is necessary that there is enough data so that students can apply their knowledge in order to try to solve the problem.
 
 -->> Development of local search heuristics based algorithms to solve the production planning problem (p-batch s-batch) in a plastic bag production factory.
 
