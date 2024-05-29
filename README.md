@@ -9,6 +9,16 @@ A licença na íntegra pode ser consultada no documento LICENSE, ou através do 
 
 *** Work in progress:
 
+-->> Semester evaluation method for disciplines of the Production Engineering course, based on the dynamics adopted in selection processes of multinational companies.
+
+    *** This idea just came up.
+    *** When students are about to graduate, they can participate in selection processes for the function of trainee in multinationals.
+    *** In the selection process, both practical knowledge of the students and behavioral aspects are evaluated.
+    *** These assessments are done through group dynamics.
+    *** Students need to apply their knowledge gained in their training to problem solving cases.
+
+    *** 
+
 -->> Development of local search heuristics based algorithms to solve the production planning problem (p-batch s-batch) in a plastic bag production factory.
 
     *** I am thinking of using the particle collision heuristic, which was adapted by me (in my doctorate), to solve discrete problems, from the particle collision method, developed by Prof. Wagner Sacco.
