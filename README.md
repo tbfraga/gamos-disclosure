@@ -7,6 +7,31 @@ Por essa licença, é permitido fazer download e compartilhamento dos documentos
 
 A licença na íntegra pode ser consultada no documento LICENSE, ou através do site: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
+*** New project ideas
+
+--> game MY LIFE
+
+    *** objective of the game is bring people back to life.
+    *** not to transforme life in game, but mabe it will. 
+
+    *** create a new game with the following aspects:
+    *** single user offline interface;
+    *** multiuser online interface;
+    *** enviromente where user can define the task;
+    *** tasks must be tasks from real life;
+    *** user create a scenario like his real life (home, work, etc)
+    *** user define his tasks as a scheduling;
+    *** game creates tasks on enviroment scenario;
+    *** game provides score for acomplish the tasks;
+    *** user mark the start time for each task;
+    *** user go to real life to perform its own task;
+    *** user come back to game to finish quests and recive bonifications;
+
+    *** as one of the bonifications of a day of tasks acomplished user has acces to a multiuser interface where user can talk, change material, disclose multiuser tasks, etc.
+
+    *** the game can provide real bonifications as ticket for cinema, etc.
+    *** on multiuser interface gamers can combine multiuser real tasks.
+
 *** Work in progress:
 
 -->> Semester evaluation method for disciplines of the Production Engineering course, based on the dynamics adopted in selection processes of multinational companies.
