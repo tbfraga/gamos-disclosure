@@ -26,11 +26,14 @@ A licença na íntegra pode ser consultada no documento LICENSE, ou através do 
     *** user mark the start time for each task;
     *** user go to real life to perform its own task;
     *** user come back to game to finish quests and recive bonifications;
+    *** game evaluate tasks execution time and help to plan / schedule and acomplish real life tasks.
 
     *** as one of the bonifications of a day of tasks acomplished user has acces to a multiuser interface where user can talk, change material, disclose multiuser tasks, etc.
 
     *** the game can provide real bonifications as ticket for cinema, etc.
     *** on multiuser interface gamers can combine multiuser real tasks.
+
+    *** user data stays on his own app. Data must be not stoqued or used for any other ends. Privacy must be the same game rule.
 
 *** Work in progress:
 
