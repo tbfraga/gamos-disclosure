@@ -36,11 +36,11 @@ A licença na íntegra pode ser consultada no documento LICENSE, ou através do 
         --> then it is possible that it is necessary to work with causal methods, along with other standard methods. 
         --> mabe this could solve the forecast problem for the studied case.
 
-   *** What's done:
-       --> proposal of a new approach for multicriteria ABC classification with analytical hierarchy process.
+    *** What's done:
+        --> proposal of a new approach for multicriteria ABC classification with analytical hierarchy process.
 
-   *** Next steps:
-       --> portfolio study, considering ABC classification, demand patterns, and methods used for demand forecasting.
+    *** Next steps:
+        --> portfolio study, considering ABC classification, demand patterns, and methods used for demand forecasting.
 
 -->> Elaboration of a scientific article for publication of the particle collision applied to discrete problem solving (part of my doctoral work).
 
